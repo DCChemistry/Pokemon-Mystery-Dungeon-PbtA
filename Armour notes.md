@@ -1,0 +1,3 @@
+I have two options for how to implement armour:
+- The MotW way, where armour reduces incoming damage, thus this requires tracking harm the normal way,
+- The Chasing Adventure way, where you attribute a condition to an attribute, and when all your stats have a condition you get knocked out. Armour, in this case, just increases the number of conditions you can take and will protect against only specific kinds of attacks. ==The issue is, with the names of the stats in this game, it is not clear what kind of conditions should be applied to each stat. If I want to use Chasing Armour type armour, I would need to use their stats, i.e. str, dex, cha, int and wis.==

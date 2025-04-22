@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "c73dcc36ac9ad90b",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b672a46454de63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "921ca1620f2b9e0a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed4f72f9f37f14a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc8abff7292eed76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94802e7cc79e5e8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0facd99880263160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9db206d05f9f1e7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "effa2b4c6a0f2115",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e68a73111fc6e04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e5849d127a63a8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9f306ae4c7b54e6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0e3cf1a0be2943e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1f9621010421ed8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "921ca1620f2b9e0a",
+  "lastOpenFiles": [
+    "IMG_3406.jpeg",
+    "IMG_2610.jpeg",
+    "Foresight.md",
+    "Types MOC.md",
+    "Manipulate Someone.md",
+    "Earth.md",
+    "Synthesis.md",
+    "Armour notes.md",
+    "Want to Battle.md",
+    "Captivate.md",
+    "Fire.md",
+    "Heal Bell.md",
+    "Read a Bad Situation.md",
+    "Charm.md",
+    "Normal.md",
+    "Heal Pulse.md",
+    "Flying.md",
+    "Mind Reader.md",
+    "Basic Moves.md",
+    "Extrasensory.md",
+    "Hypnosis.md",
+    "Teleport.md",
+    "Run Away.md",
+    "Wide Guard.md",
+    "Calm Mind.md",
+    "Protect Someone.md",
+    "Thief.md"
+  ]
+}
